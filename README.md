@@ -29,3 +29,22 @@ SpeechRecognition @ file:///D:/bld/speechrecognition_1610385446783/work
 urllib3==1.26.3
 wikipedia==1.4.0
 wincertstore==0.2
+
+
+## Conda Installation 
+  conda create --name voic python=3.8
+  conda activate voic
+  pip install pyAudio
+  conda install -c anaconda pyaudio
+  conda install -c anaconda portaudio
+  
+  conda install -c conda-forge speechrecognition
+  
+  conda install -c auto pyttsx
+
+  pip install pyttsx3
+ 
+  pip install pywhatkit
+  
+  pip install pyjokes
+
